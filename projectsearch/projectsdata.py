@@ -232,8 +232,8 @@ def CowboysAdvertisementWebsite():
     trimester = 3
     keyword = "Social Media"
     gitlink = "https://github.com/TMarwah/P3Cowboys"
-    comlink = ""
-    runlink = "https://github.com/TMarwah/P3Cowboys"
+    comlink = "https://www.youtube.com/watch?v=XnYaSJoKWxE&ab_channel=Purplebears"
+    runlink = "https://p3cowboys.nighthawkcodingsociety.com/"
     scrumlink = "https://github.com/TMarwah/P3Cowboys"
     readmelink = "https://github.com/TMarwah/P3Cowboys"
     description = "We have created a platform where you can upload your ads and showcase your company. All you need to do is sign up and create an account. This is a great way to make your website and company more popular. "
